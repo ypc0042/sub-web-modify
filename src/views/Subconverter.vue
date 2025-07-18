@@ -8,7 +8,7 @@
             #<svg-icon class="gayhub" icon-class="github" style="float:left" @click="goToProject" />
             #<svg-icon class="dianbao" icon-class="telegram" style="float:left;margin-left: 10px"
               @click="gotoTgChannel" />
-              #<svg-icon class="bilibili" icon-class="bilibili" style="float:right;margin-left:10px"
+            #<svg-icon class="bilibili" icon-class="bilibili" style="float:right;margin-left:10px"
               @click="gotoBiliBili" />
             #<svg-icon class="youguan" icon-class="youtube" style="float:right;margin-left:10px" @click="gotoYouTuBe" />
             #<svg-icon class="channel" icon-class="telegram" style="float:right;margin-left: 10px"
