@@ -3,7 +3,7 @@
     <el-row style="margin-top: 10px">
       <el-col>
         <el-card>
-          <div slot="header">
+          #<div slot="header">
             #<svg-icon class="gayhub" icon-class="github" style="float:left" @click="goToProject" />
             #<svg-icon class="dianbao" icon-class="telegram" style="float:left;margin-left: 10px"
               @click="gotoTgChannel" />
